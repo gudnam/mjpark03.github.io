@@ -18,15 +18,24 @@ I am <b>SW Engineer</b> in Korea. I am interested in many topics. <b>Programming
 
 <!-- more -->
 
+<!-- Education -->
 <h2><b>Education</b></h2>
 
 <h4>Korea University</h4>
 <li>Master in Embedded SW, 2015</li>
 <br/>
 
+<!-- Experience (Work) -->
 <h2><b>Experience (Work)</b></h2>
 
-<li><h4>GYMGAGE<span id='about-date'>&nbsp;&nbsp;May, 2015 - present</span></h4></li>
+<li><h4>Freelancer<span id='about-date'>&nbsp;&nbsp; Aug, 2015 - present</span></h4></li>
+<b>A Software Developer</b> as Freelancer.
+
+1st project. Developing back-end & front-end for U Cube
+I am developing back-end & front-end for U Cube. U Cube is IT System for LG U+ (Telecommunications Company).  I used some skills such as Java, javascript, Oracle, Spring Framework, etc..
+<br/><br/>
+
+<li><h4>GYMGAGE<span id='about-date'>&nbsp;&nbsp;May, 2015 - Sept, 2015</span></h4></li>
 <b>CTO</b> of GYMGAGE startup.
 <br/><br/>
 
@@ -43,7 +52,8 @@ I developed Objective-c and Swift SDK for Aire App. Aire app is an easy way to s
 I developed server APIs for Bitcoin-Korean Won exchange v2.0 using some skills such as Scala, Play Framework, Slick, etc..
 
 4th project. Developing back-end & front-end for BitWire
-I am developing back-end & front-end for BitWire. BitWire is an application that the easiest way to send money to anyone in South Korea. I used some skills such as node.js, express.js, bootstrap, etc..
+I developed back-end & front-end for BitWire. BitWire is an application that the easiest way to send money to anyone in South Korea. I used some skills such as node.js, express.js, bootstrap, etc..
+URL: https://www.bitwire.co/
 
 If you want to get more information about Korbit Inc ...
 URL: https://www.korbit.co.kr/
@@ -53,7 +63,7 @@ URL: https://www.korbit.co.kr/
 <b>A Researcher</b> of Formal Methods Lab in Korea University.
 
 1st project. Participating in the Research Center of High-Quality Convergence Software.
-I am doing static analysis about open source of OpenADR that is the protocol for Smart Grid using LDRA, PolySpace, etc..
+I did static analysis about open source of OpenADR that is the protocol for Smart Grid using LDRA, PolySpace, etc..
 I have a plan to do Modeling & Simulation of OpenADR protocol using UPPAAL.
 
 2nd project. Researching the improvement for Master Control and Reporting Center of Airforce.
@@ -87,6 +97,7 @@ If you want to get more information about ETRI ..
 URL: http://www.etri.re.kr/etri/main/index.etri
 <br/><br/>
 
+<!-- Experience -->
 <h2><b>Experience</b></h2>
 
 <li><h4>Girls in Tech, South Korea<span id='about-date'>&nbsp;&nbsp; Nov, 2014 - present</span></h4></li>
