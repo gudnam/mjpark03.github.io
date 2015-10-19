@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Txxx Tech Interview"
 date:   2015-10-19 20:35:00
 categories: daily

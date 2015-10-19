@@ -37,6 +37,8 @@ return its level order traversal as:
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+
 public class Solution {
     private List<List<Integer>> levelOrderList = new ArrayList<List<Integer>>();
     
@@ -67,3 +69,6 @@ public class Solution {
     }
 }
 {% endhighlight %}
+
+<!-- more -->
+
