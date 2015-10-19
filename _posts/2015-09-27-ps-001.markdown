@@ -5,8 +5,8 @@ date:   2015-09-28 15:26:00
 categories: algorithm
 author: Rachel Park
 comments: true
-tags: [algorithm]
-permalink: algorithm/001
+tags: [ps]
+permalink: ps/001
 ---
 
 
