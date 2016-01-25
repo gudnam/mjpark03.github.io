@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LeetCode] Reverse Words in a String"
+title:  "[LeetCode] Reverse Words in a String (1)"
 date:   2015-11-14 21:57:00
 categories: algorithm
 author: Rachel Park

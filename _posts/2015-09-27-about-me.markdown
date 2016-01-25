@@ -28,11 +28,17 @@ I am <b>SW Engineer</b> in Korea. I am interested in many topics. <b>Programming
 <!-- Experience (Work) -->
 <h2><b>Experience (Work)</b></h2>
 
-<li><h4>Freelancer<span id='about-date'>&nbsp;&nbsp; Aug, 2015 - present</span></h4></li>
+<li><h4>Coupang<span id='about-date'>&nbsp;&nbsp; Dec, 2015 - Present</span></h4></li>
+<b>A Software Engineer</b>
+
+I am working at QC(Quality Control)&Monitoring Team. We are responsible for Product Quality Control, Post-Monitoring System, Approval Attribute Tool and Credibility Management Portal.
+<br/><br/>
+
+<li><h4>Freelancer<span id='about-date'>&nbsp;&nbsp; Aug, 2015 - Nov, 2015</span></h4></li>
 <b>A Software Developer</b> as Freelancer.
 
 1st project. Developing back-end & front-end for U Cube
-I am developing back-end & front-end for U Cube. U Cube is IT System for LG U+ (Telecommunications Company).  I used some skills such as Java, javascript, Oracle, Spring Framework, etc..
+I developed back-end & front-end for U Cube. U Cube is IT System for LG U+ (Telecommunications Company).  I used some skills such as Java, javascript, Oracle, Spring Framework, etc..
 <br/><br/>
 
 <li><h4>GYMGAGE<span id='about-date'>&nbsp;&nbsp;May, 2015 - Sept, 2015</span></h4></li>
