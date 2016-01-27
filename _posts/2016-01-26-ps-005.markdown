@@ -70,8 +70,6 @@ public class Solution {
 
 <br/><br/>
 * Time Complexity: O(n)
-<br/>
-* Space Complexity: 2n --> O(n)
-<br/>
+
 
 
