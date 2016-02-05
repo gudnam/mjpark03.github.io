@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "[LeetCode] Remove Nth Node From End of List (1)"
-date:   2016-02-05 20:41:10
+date:   2016-02-05 20:41:20
 categories: algorithm
 author: Rachel Park
 comments: true
 tags: [ps]
-permalink: ps/007
+permalink: ps/009
 ---
 
 
