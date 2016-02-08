@@ -6,7 +6,7 @@ categories: algorithm
 author: Rachel Park
 comments: true
 tags: [ps]
-permalink: ps/009
+permalink: ps/007
 ---
 
 
