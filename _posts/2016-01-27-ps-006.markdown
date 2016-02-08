@@ -10,7 +10,7 @@ permalink: ps/006
 ---
 
 
-<a href='https://leetcode.com/problems/remove-duplicates-from-sorted-list/'>Two Sum</a>
+<a href='https://leetcode.com/problems/remove-duplicates-from-sorted-list/'>Two Sum (1)</a>
 <br/><br/>
 
 Given an array of integers, find two numbers such that they add up to a specific target number.
