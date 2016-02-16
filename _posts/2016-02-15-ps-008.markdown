@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[LeetCode] LRU Cache (1)"
-date:   2016-02-14 17:27:00
+date:   2016-02-15 17:27:00
 categories: algorithm
 author: Rachel Park
 comments: true
