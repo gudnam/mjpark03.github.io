@@ -21,10 +21,9 @@ permalink: project/001
 * 필요한 Algorithm: RIPEMD160, SHA256, Base58 Encoding
 <br/><br/>
 
-<img style="margin-left:auto;margin-right:auto;" src="../../images/project/project-001-01.png" width="60%"/>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-참고: Mastering Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/)
+<img style="margin-left:auto;margin-right:auto;" src="../../images/project/project-001-01.png" width="70%"/>
+<br/><br/>
+* 참고: Mastering Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/)
 <br/><br/><br/>
 
 * <b>Payload:</b> RIPEMD160(SHA256(public key))
