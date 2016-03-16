@@ -18,7 +18,7 @@ permalink: project/001
 <h3>Bitcoin Address 생성 방법</h3>
 <hr/>
 
-* 필요한 Algorithm: RIPEMD160, SHA256, Base58 Encoding
+* 필요한 Algorithm: RIPEMD160, SHA256, Base58Check Encoding
 <br/><br/>
 
 <img style="margin-left:auto;margin-right:auto;" src="../../images/project/project-001-01.png" width="70%"/>
@@ -38,7 +38,13 @@ permalink: project/001
 <h3>Bitcoin Address Validation 방법</h3>
 <hr/>
 
-작성 예정 ...
+1) A = Base58Check Decode(Bitcoin Address) : 25 bytes
+
+2) B = SHA256(SHA(256, A(0, 21)), 0, 32) : 32 bytes
+
+3) B(0, 4) == A(21, 25) : 4 bytes (Checksum) 
+
+&nbsp; &nbsp; --> <b>true 이면 Bitcoin Address Validation 성공</b>
 
 
 
