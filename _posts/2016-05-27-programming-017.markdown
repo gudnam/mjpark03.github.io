@@ -23,7 +23,7 @@ I will summerize the lectures (Functional Programming Principles in Scala of Cou
 <hr/>
 
 - <h4>Functions as Objects</h4>
-	- function values are treated as objects in Scala <br/>
+  - function values are treated as objects in Scala <br/>
   - The function type A => B : scala.Function1[A, B] <br/>
 
 {% highlight text %}
