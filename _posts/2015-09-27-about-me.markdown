@@ -29,7 +29,7 @@ I am <b>SW Engineer</b> in Korea. I am interested in many topics. <b>Programming
 <h2><b>Experience (Work)</b></h2>
 
 <li><h4>I/O inc<span id='about-date'>&nbsp;&nbsp; Apr, 2016 - Present</span></h4></li>
-<b>A Software Engineer</b> of I/O inc that provides IoT products.
+<b>CTO</b> of I/O inc that provides IoT products.
 
 1st project. Developing back-end for mobile clients of Switcher <br/>
 I am developing back-end for mobile clients of Switcher. <br/>
