@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LeetCode] Valid Anagram (1)"
+title:  "[LeetCode] Valid Anagram"
 date:   2015-10-06 15:26:00
 categories: algorithm
 author: Rachel Park
